@@ -10,7 +10,7 @@
 
 Tested out the audio files by plotting out the waveform and a spectrogram to see the sample audio files.
 
-##Waveform
+## Waveform
 ![image](https://user-images.githubusercontent.com/84785447/144799830-dd57f31a-77dd-48c1-8663-b6959d2a3ce0.png)
 
 
